@@ -1,0 +1,23 @@
+body{
+  background-color: bisque;
+}
+
+th,td{
+  border: 1px solid black;
+  padding: 8px;
+}
+
+table{
+  margin-left: 50px;
+  border-collapse: collapse;
+  width: 75%;
+}
+
+.form_container{
+  margin-left: 50px;
+}
+
+h1{
+  margin-left: 50px;
+}
+
